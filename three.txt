@@ -1,3 +1,6 @@
 Development branch three 
 
-staging change - 44
+<<<<<<< HEAD
+final change - 44
+=======
+
